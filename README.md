@@ -149,7 +149,7 @@ Each question is worth 0.5 points. Total: **10 points**
 19. What is the role of `Tailwind CSS`?  
    - A) It’s a database system  
    - B) A backend tool for API management  
-   - **C) A utility-first CSS framework**  
+   - ** C) A utility-first CSS framework **  
    - D) A JavaScript compiler  
 
 20. What does `docker-compose down` do?  
