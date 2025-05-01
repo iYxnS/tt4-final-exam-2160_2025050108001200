@@ -1,0 +1,9 @@
+node_modules
+bin
+obj
+Dockerfile
+docker-compose.yml
+.git
+.gitignore
+*.md
+*.log
